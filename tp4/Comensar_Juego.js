@@ -431,36 +431,4 @@ function PlayJuego(seReinicio, SalirVictoria, SalirPierde, MiFuente, Pant_Victor
   }
   
 //fin pantallas ganador perdedor
-  //if(seReinicio){
-  //  PosYFondo= -1080;
-  //  VidaEnemigo1=0;
-  //  VidaEnemigo2=0;
-  //  VidaEnemigo3=0;
-  //  VidaEnemigo4=0;
-  //  VidaEnemigo5=0;
-  //  VidaEnemigo6=0;
-  //  VidaEnemigo7=0;
-  //  VidaEnemigo8=0;
-  //  VidaEnemigo9=0;
-  //  VidaEnemigo10=0;
-  //  VidaEnemigo11=0;
-  //  VidaEnemigo12=0;
-  //  VidaEnemigo13=0;
-  //  VidaEnemigo14=0;
-  //  VidaEnemigo15=0;
-  //  VidaEnemigo16=0;
-  //  VidaEnemigo17=0;
-  //  VidaEnemigo18=0;
-  //  VidaEnemigo19=0;
-  //  VidaEnemigo20=0;
-  //  VidaEnemigo21=0;
-  //  VidaEnemigo22=0;
-  //  GameOver=false;
-  //  Victoria=false;
-  //  Puntaje=0;
-  //  seReinicio=false;
-  //}
-  
-  
-  
 }//fin function
